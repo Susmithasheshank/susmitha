@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "agribreeder",
+    "slug": "agribreeder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "agribreeder"
+}
